@@ -11,7 +11,7 @@
 
 | # | Comando | Categoria |
 |---|---------|-----------|
-| 01 | [`ls`](#01-ls) | Navegação |
+| 01 | ls | Navegação |
 | 02 | [`cd`](#02-cd) | Navegação |
 | 03 | [`pwd`](#03-pwd) | Navegação |
 | 04 | [`mkdir`](#04-mkdir) | Arquivos e Diretórios |
